@@ -64,9 +64,17 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 **Screenshot(s):**
 
-(images/scherm1.png), (images/scherm2.png), (images/scherm3.png), (images/scherm4.png), (images/scherm5.png), (images/scherm6.png), (images/scherm7.png) 
+![scherm1](images/scherm1.png), 
+![scherm2](images/scherm2.png), 
+![scherm3](images/scherm3.png), 
+![scherm4](images/scherm4.png), 
+![scherm5](images/scherm5.png), 
+![scherm6](images/scherm6.png), 
+![scherm7](images/scherm7.png) 
+
+
 
 **Breakdown-schets(en):**
 
-(images/breakoutschets.jpg)
+![breakoutschets](images/breakoutschets.jpg)
 
