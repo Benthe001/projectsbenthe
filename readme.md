@@ -38,19 +38,26 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ### Stand van zaken
 
--dit ging goed & dit was lastig-
+Het opzetten van mijn bestanden en het begin maken ging ontzettend moeizaam. Ik moest weer een beetje aan het programmeren wennen, maar door het te doen viel alles weer een beetje op zijn plek. Door hulp van studiegenoten heb ik er wat van kunnen maken. Het ziet er uit als een klein beetje, maar ik heb hier echt uren aan gewerkt. Ik had vooral veel moeite met de nav bar.
 
 **Screenshot(s):**
 
--screenshot(s) van hoe ver je bent-
+![scherm1](images/webpagina_ticketswap_benthe.png)
 
 ### Agenda voor meeting
 
--samen met je groepje opstellen-
+We beginnen om 13:40 
+Benthe
+Fleur
+Denzel
+Arthur
+Jody
 
 ### Verslag van meeting
 
--na afloop snel uitkomsten vastleggen-
+We hebben gekeken naar iedereen zijn/haar vooruitgang. Niet iedereen was al begonnen en niemand was nog heel ver, hierdoor hebben we de vooruitgang nog niet helemaal kunnen bespreken. Iedereen vertelde wel waar de moeilijkheden zaten. Namelijk bij HTML zelf (wanneer is iets een link en wanneer is iets een button) Javascript, CSS (het aangeven van left/right wat soms niet werkt), Forms en nog meer. 
+
+De personen die al kunnen coderen hebben ons een beetje opweg geholpen waardoor de blauwe piste wat vooruit kwam. 
 
 
 

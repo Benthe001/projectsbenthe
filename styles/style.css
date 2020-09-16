@@ -1,5 +1,90 @@
 /* CSS Document */
-*, *::after, *::before {
-  box-sizing:border-box;  
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
 }
 
+
+header nav {
+    background-color: transparent;
+    position:absolute;
+    height: 60%;
+    top:0;
+   
+}
+
+header nav li:first-of-type img {
+    width: 6em;
+    position:absolute;
+    left: 0;
+    top:0;
+}
+
+header nav li:nth-of-type(2) img {
+    width: 3em;
+    position:absolute;
+    left:17em;
+    top:.5em;
+    
+}
+
+header nav li:nth-of-type(3) img {
+    width: 2em;
+    position:absolute;
+    right:0;
+    left:23em;
+    top:.9em;
+    
+}
+
+header {
+    background-color: transparent;
+    position: relative;
+    width:100%;
+}
+
+header nav ul li {
+    display:flex;   
+}
+
+
+button:first-of-type{
+    background:transparent;
+    border:none;
+    outline:none;
+}
+
+body {
+    margin:0;
+}
+
+section:first-of-type h2 {
+    position:absolute;
+    color:white;
+    top:7em;
+    margin:.5em;
+    font-family:sans-serif;
+    width: 80%;
+}
+
+section:nth-of-type(2) h2 {
+    position:absolute;
+    font-family:sans-serif;
+    left:.5em;
+    font-size:1.5em;
+    top: 11.5em;
+}
+
+section:nth-of-type(2) ul li {
+    position:relative;
+    top:2em;
+}
+
+section:nth-of-type(3) h2 {
+    position:absolute;
+    font-family:sans-serif;
+    left:.5em;
+    font-size:1.5em;
+    bottom: 7em;
+    
