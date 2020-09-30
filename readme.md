@@ -30,9 +30,31 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 2 (week 5)
 
--same as voortgang 1-
+### Stand van zaken
 
+Het ging voor mij een stuk makkelijker dan bij de vorige voortgang. Ik herinnerde me nog veel dingen van vorig jaar waardoor ik in een goede werkflow kwam. Ik heb wel steeds samengezeten met klasgenoten om aan de website te werken, hierdoor konden wij elkaar helpen en ging het bij ons allemaal een stuk sneller. Het lijkt misschien alsof ik niet veel verder ben gekomen als jullie de schermen zien, maar mijn code is ten opzichte van vorige keer meer opgeruimd en netjes. Ook heb ik mijn eerste pagina wat uitgebreid met knoppen en linkjes, hier was ik nog wel enige tijd mee bezig.
 
+**Screenshot(s):**
+
+![scherm1](images/webpagina_ticketswap_benthe_2.png)
+![scherm2](images/webpagina_ticketswap_benthe_2.2.png)
+
+### Agenda voor meeting
+
+We beginnen om 13:40 
+Benthe
+Fleur
+Denzel
+Arthur
+Jody
+
+### Verslag van meeting
+
+Wij willen het hebben over:
+
+- Forms
+- Positioneren (mingetallen)
+- Wanneer maak je gebruik van flex of grid?
 
 ## Voortgang 1 (week 3)
 
