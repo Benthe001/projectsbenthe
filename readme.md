@@ -24,9 +24,33 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 ## Voortgang 3 (week 6)
 
--same as voortgang 1-
+### Stand van zaken
+Tegen heel wat dingen aangelopen. Het responsive maken van de website gaat mij niet goed af, ik kan bijvoorbeeld kleuren veranderen maar de groottes van bijvoorbeeld de form veranderd niet. Ik probeer dit met mediaqueries. 
 
+Het maken van een uitklapbaar hamburgermenu lukt ook nog niet, veel hulp gekregen van een klasgenoot (Jody), maar het is mij nog niet gelukt. Dit ga ik vragen in het voortganggesprek. 
 
+Het is me wel vrij soepel gelukt om een footer te maken, deze 'wat simpelere' dingen gaan gelukkig steeds vloeiender, hierdoor denk ik dat de tweede pagina sneller gaat lukken. 
+
+**Screenshot(s):**
+
+![scherm1](images/webpagina_ticketswap_benthe_3.png)
+Hier ziet u hoe het uitklapmenu vast staat, ik ga dit oplossen tijdens het voortgangsprek. 
+
+### Agenda voor meeting
+
+We beginnen om 13:40 
+Benthe
+Fleur
+Denzel
+Arthur
+Jody
+
+### Verslag van meeting
+
+Ik willen het hebben over:
+
+- Media queries (responsive maken)
+- Hamburger uitklapmenu
 
 ## Voortgang 2 (week 5)
 

@@ -8,16 +8,15 @@
 
     <title>Ticketswap</title>
 
-    <link href="styles/style.css" rel="stylesheet">
-
-
+ <link href="styles/style.css" rel="stylesheet">  
+    
 </head>
 
 
 
 <body>
 
-    <header>
+    <header class="fullpageheader">
 
         <nav>
             <ul>
@@ -27,9 +26,11 @@
                 <li>
                     <a href="#"><img src="images/shoppingcart.png" alt="Winkelwagen"></a>
                 </li>
-                <li>
-                    <a href="#"><img src="images/morebutton.png" alt="Searchbutton"></a>
+                
+                   <li>
+                    <a id='hamburger' href="#"><img src="images/morebutton.png" alt="hamburgermenu"></a>
                 </li>
+                
 
             </ul>
         </nav>
@@ -62,29 +63,54 @@
 
         <section>
             <h1>Zoek evenementen</h1>
-            <ul>
+            <div class="content">
                 <a href="#"><img src="images/calender1.jpg" alt="Evenemten in omgeving">
-                    <li>Vandaag <p>Evenementen die vandaag in jouw omgeving plaatsvinden</p>
-                    </li>
+                    <p>Vandaag</p>
+                    <p>Evenementen die vandaag in jouw omgeving plaatsvinden</p>
+
                 </a>
                 <a href="#"><img src="images/calender2.png" alt="Evenemten dit weekend">
-                    <li>Dit weekend <p>Plaatselijke evenementen op vrijdag, zaterdag en zondag</p>
-                    </li>
+                    <p>Dit weekend</p>
+                    <p>Plaatselijke evenementen op vrijdag, zaterdag en zondag</p>
+
                 </a>
                 <a href="#"><img src="images/calender3.png" alt="Zoek op datum, locatie of categorie">
-                    <li>Zoek op datum, locatie of categorie<p>Vind muziek en meer, op een dag die voor jou werkt</p>
-                    </li>
+                    <p>Zoek op datum, locatie of categorie </p>
+                    <p>Vind muziek en meer, op een dag die voor jou werkt</p>
+
                 </a>
-            </ul>
+            </div>
+
         </section>
 
-        <section>
-            <h1>Ontdek</h1>
-        </section>
 
 
     </main>
     <footer>
+
+
+        <nav>
+            <ul> Download
+                <li>
+                    <a href="#"><img src="images/apple.png" alt="Link naar iOS app"> </a> iOS app
+                </li>
+                <li> 
+                    <a href="#"><img src="images/android.png" alt="Link naar Android app"></a> Android app
+                </li>
+ 
+            </ul>
+            
+             <ul> Hulp nodig?
+                <li>
+                    <a href="#"><img src="images/wolk.png" alt="Ga naar contactpagina"> </a> Ga naar de contactpagina
+                </li>
+                <li> 
+                    <a href="#"><img src="images/vraagteken.png" alt="Bekijk de FAQ"></a> Of bekijk de FAQ
+                </li>
+ 
+            </ul>
+            
+        </nav>
 
     </footer>
     <script src="scripts/script.js"></script>

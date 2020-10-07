@@ -5,139 +5,211 @@
     box-sizing: border-box;
 }
 
+/* Standaard css */
 body {
-    margin:0;
-    background-color:white;
+    margin: 0;
+    background-color: white;
 }
 
 
 h1 {
-    font-size:1.2em;
-    color:white;
-    margin:0;
-    font-family:sans-serif;
-    margin-left:1em;
+    font-size: 1.2em;
+    color: white;
+    margin: 0;
+    font-family: sans-serif;
+    margin-left: 1em;
 
 }
 
 header {
     position: absolute;
-    top:0;
-    left:0;
-    width:100%;
-    z-index:100;
+    top: 0;
+    left: 0;
+    width: 100%;
+    z-index: 100;
 }
 
+p {
+    font-family: sans-serif;
+}
+
+/* CSS voor navigatie in header */
 
 header nav ul {
-    display:flex; 
+    display: flex;
+    list-style-type: none;
+
 }
 
 header nav ul li:first-of-type {
-    margin-right:auto;
+    margin-right: auto;
 }
 
 
 header nav li:first-of-type img {
     width: 6em;
-    margin-left:-2.5em;
-    margin-top:-.5em;
+    margin-left: -2.5em;
+    margin-top: -1em;
 }
 
 header nav li:nth-of-type(2) img {
     width: 2em;
-    margin-right:1em;
+    margin-right: 1em;
 }
 
 header nav li:nth-of-type(3) img {
     width: 1.5em;
-    margin-right:1em;
+    margin-right: 1em;
 }
+
+
+/* navigatie voor header na hamburgermenu */
+.fullpageheader {
+    background-color:white;
+    height:100%;
+    width:100%
+}
+
+/* Eerste section */
 
 section:first-of-type {
-    position:relative;
+    position: relative;
 }
 
+@media (min-width:28em) {
+    section:first-of-type h1 {
+        font-size: 1.3em;
+        width: 14em;
+    }
+
+    input:first-of-type {
+         width: 21em;
+    }
+}
+
+@media (min-width:36em) {
+    section:first-of-type h1 {
+        font-size: 10em;
+        width: 30em;
+        text-align: center;
+        
+    }
+
+    input:first-of-type {
+         width:;
+    }
+}
+
+
+
+
 section:first-of-type h1 {
-    position:absolute;
-    top:50%;
-    width:14em;
-    font-size:1.3em;
+    position: absolute;
+    top: 50%;
+    width: 14em;
+    font-size: 1.3em;
     text-shadow: 3px 3px 5px #000000;
 }
 
 section:first-of-type img {
-    width:100%;
+    width: 100%;
+
 }
 
 input:first-of-type {
-    width:21em;
-    height:3em;
-    position:absolute;
-    top:71%;
-    left:6%;
-    border-radius:.5em;
-    border:0px;
+    width: 21em;
+    height: 3em;
+    position: absolute;
+    top: 71%;
+    left: 6%;
+    border-radius: .5em;
+    border: 0px;
 }
 
 section:first-of-type ul:last-of-type {
-    color:white;
-    display:flex;
-    line-height:1.5em;
-    position:absolute;
-    font-size:.6em;
-    font-family:sans-serif;
-    margin-left:-1em;
-    list-style-type:none;
+    color: white;
+    display: flex;
+    line-height: 1.5em;
+    position: absolute;
+    font-size: .6em;
+    font-family: sans-serif;
+    margin-left: -1em;
+    list-style-type: none;
     bottom: 1em;
 }
 
 
+/* Tweede section */
+
 section:nth-of-type(2) h1 {
-    color:black;
-    margin-top:.5em;
+    color: black;
+    margin-top: .5em;
 }
 
-section:nth-of-type(2) ul {
-    list-style-type:none;
-    margin:0;
+.content {
+    list-style-type: none;
+    margin: 0;
+    display: grid;
 }
 
-section:nth-of-type(2) ul a img {
-    width:2.5em;
-    margin-left:-1em;
-    margin-bottom:-5em;
-    border-radius:.4em;
+section:nth-of-type(2) div a img {
+    width: 2.5em;
+    margin: 0em 0em -2.5em 1em;
+    border-radius: .4em;
 }
 
-section:nth-of-type(2) li {
-    font-family: sans-serif;
-    font-size:.9em;
-    background-color:#ededed;
-    width:20em;
-    padding:.5em;
-    margin:0em;
-    margin-left:-2em;
-    color:black;
-    border-radius:.5em;
-    
+section:nth-of-type(2) p {
+    font-size: .7em;
+    width: 19em;
+    padding: 0em;
+    border-radius: .5em;
+    color: dimgray;
+    margin-left: 6em;
+    margin-top: -0.5em;
 }
 
-section:nth-of-type(2) li:hover {
-    background-color:lightgrey;
-}
-
-section:nth-of-type(2) li p {
-    font-size:.9em;
-    color:dimgray;
-    margin-left:5em;
-    margin-top:1.5em;
+section:nth-of-type(2) a:hover {
+    background-color: lightgrey;
 }
 
 section:nth-of-type(2) a {
-    text-decoration:none;
+    text-decoration: none;
+    width: 18em;
+    background-color: #ededed;
+    border-radius: 1em;
+    margin: 1em 0 0 1em;
 }
 
 section:nth-of-type(3) h1 {
-    color:black;
+    color: black;
+}
+
+
+/* CSS footer */
+
+footer {
+    margin: 2em 0 0 0;
+    border-top: 1px solid lightgrey;
+}
+
+footer img {
+    width:3em;
+    left:0;
+    margin-bottom:-1em;
+    margin-right:.5em;
+}
+
+footer li {
+    font-size:.6em;
+    color:grey;
+    list-style-type:none;
+    margin: 0 0em 1em 0;
+}
+
+
+footer ul {
+    font-family: sans-serif;
+    font-size:.9em;
+    margin-left:0em;
+    padding:0 0 0 1em;
 }
