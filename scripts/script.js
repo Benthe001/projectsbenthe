@@ -3,18 +3,12 @@
 
 
 //functie voor openen hamburgermennu
-var hamburgerMenu = document.querySelector("#hamburger");
-var header = document.querySelector('#header');
+var hamburgerButton = document.querySelector("#hamburger");
+var deHeader = document.querySelector('header');
 
 function openHamburger(){
-    header = document.querySelector('hamburger');
-
-header.classList.toggle("toon header")
+    deHeader.classList.toggle("toonheader");
 }
 
-hamburgerMenu.addEventListener("click",openHamburger);
+hamburgerButton.addEventListener("click", openHamburger);
 
-//function openHamburger() {
-    //let header = document.querySelector() //.classList.toggle("fullpageheader");
-
-//hamburgerMenu.addEventListener('click', openMenu);
