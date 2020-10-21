@@ -6,20 +6,24 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
 
 
 ## Bronnenlijst
-1. -bron 1-
-2. -bron 2-
-3. -...-
+1. css-tricks.com
+2. klasgenoten 
+3. w3schools voor enkel voorbeelden van hoe een tag geschreven moet worden
 
 
 
 ## Eindgesprek (week 7/8)
 
--dit ging goed & dit was lastig-
+Mijn eerste keuze was het maken van een responsive website. Nu heb ik toch gekozen voor de Surface laag, omdat ik het leuker vind om met losse elementen te spelen en deze interactie te zien. Ik heb daarom veel gewerkt met de states en enkele animaties toegevoegd (zoals winkelwagen, uitschuifmenu en video). 
+Ik heb heel lang(bijna 3 dagen.....) lopen stoeien met het openen van het filmpje op de tweede pagina. Javascript vind ik heel erg moeilijk dus heb hier veel hulp van Sophie en Tim gehad. Ik kreeg hierdoor meer inzicht over de Javascript waardoor ik nu precies weet hoe het werkt. Hierdoor heb ik zelf, met enige hulp, dit voor elkaar gekregen, erg blij! 
 
 **Screenshot(s):**
 
--screenshot(s) van je eindresultaat-
-
+![scherm1](images/webpagina_ticketswap_eindopdacht1.png)
+![scherm2](images/webpagina_ticketswap_eindopdacht2.png)
+![scherm3](images/webpagina_ticketswap_eindopdacht3.png)
+![scherm4](images/webpagina_ticketswap_eindopdacht4.png)
+![scherm5](images/webpagina_ticketswap_eindopdacht5.png)
 
 
 ## Voortgang 3 (week 6)
@@ -111,7 +115,7 @@ De personen die al kunnen coderen hebben ons een beetje opweg geholpen waardoor 
 
 **Je startniveau:** -Blauwe piste-
 
-**Je focus:** -Responsive-
+**Je focus:** -Surface layer-
 
 **Je opdracht:** -https://www.ticketswap.nl/-
 
